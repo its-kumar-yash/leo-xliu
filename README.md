@@ -3,7 +3,8 @@
 - ✨ I'm blown away by the idea that the fastest CPU paired with a bad algorithm is leagues worse than an average human with a good algorithm!
 - 🌱 I’m currently learning about...
 - 💞️ I’m looking to expand my knowledge and experience in the field of computer science as a software engineering intern!
--     In my free time I love being physically active whether it's playing sports, working out, or going on a long walk with my dog! I also enjoy playing video games and building computers!
+-     In my free time I love being physically active whether it's playing sports, working out, or going on a long walk with my dog! 
+      I also enjoy playing video games and building computers!
 - 📫 How to reach me: 
 
 <!---
