@@ -6,7 +6,7 @@
 - 🏫 I’m currently studying... </br>
       Computer Science at the University of California, Los Angeles! </br>
 - ⏩ I'm most interested in... </br>
-      finding efficient algorithms!
+      designing efficient algorithms and working out hard problems!
 - ✨ I'm blown away...</br>
       by the idea that the fastest CPU paired with a bad algorithm is leagues worse than an average human with a good algorithm! </br>
 - 🌱 I’m currently learning about...</br>
