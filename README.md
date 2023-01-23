@@ -10,7 +10,7 @@
 - ✨ I'm blown away...</br>
       by the idea that the fastest CPU paired with a bad algorithm is leagues worse than an average human with a good algorithm! </br>
 - 🌱 I’m currently learning about...</br>
-      the internal workings and nuances of the Linux Kernel!
+      machine learning and artificial intelligence!
 - 💞️ I’m looking to...</br>
       progress my knowledge and experience in the field of computer science as a software engineering intern! </br>
 - ⚡ In my free time I enjoy...</br>
